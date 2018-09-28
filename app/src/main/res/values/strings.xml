@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MusiCoast</string>
+    <string name="greetings">Welcome to MusiCoast, your next favourite music player.</string>
+    <string name="singerName">singerName</string>
+    <string name="albumCover">AlbumCover</string>
+    <string name="musicTitle">musicTitle</string>
+    <string name="albumName">albumName</string>
+    <string name="adele">Adele</string>
+    <string name="stromae">Stromae</string>
+    <string name="adeleSongs">Adele Songs</string>
+    <string name="stromaeSongs">Stromae Songs</string>
+    <string name="racineCarrée">Racine Carrée</string>
+    <string name="adeleAlbum25">25</string>
+</resources>
